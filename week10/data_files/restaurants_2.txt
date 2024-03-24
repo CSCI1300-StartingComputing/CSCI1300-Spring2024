@@ -1,0 +1,20 @@
+McDonald's~5~5~3
+Subway~6~6~2
+Starbucks~7~8~2
+Chick-fil-A~8~9~1
+Taco Bell~5~5~3
+Wendy's~6~6~3
+Burger King~5~5~3
+Dunkin'~6~7~2
+Domino's Pizza~6~6~3
+Pizza Hut~5~5~3
+KFC~6~6~3
+Chipotle Mexican Grill~8~8~2
+Panera Bread~7~7~2
+Dairy Queen~6~6~3
+Olive Garden~7~7~3
+Panda Express~6~6~3
+Sonic Drive-In~6~6~3
+Five Guys~8~8~2
+In-N-Out Burger~9~9~1
+Red Lobster~7~7~3

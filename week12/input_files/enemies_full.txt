@@ -1,0 +1,5 @@
+name|HP|gold|condition
+Sirens|100.3355|50|H
+Scylla|200|50|H
+Cerberus|300|75|H
+Cyclops|180|100|H

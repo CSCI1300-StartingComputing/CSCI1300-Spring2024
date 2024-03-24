@@ -1,0 +1,9 @@
+course_codes
+csci
+phys
+chem
+appm
+math
+atls
+atoc
+comm

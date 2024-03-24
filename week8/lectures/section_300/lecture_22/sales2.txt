@@ -1,0 +1,13 @@
+Month,Sales for 2023
+January,32
+February,54
+March,67.5     
+April,29 
+May,35
+June,80
+July,115 
+August,98     
+September,100
+October,65
+November,210.5
+December,140 

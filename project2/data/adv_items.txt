@@ -1,0 +1,13 @@
+name|description|type|effect value|element|price
+Bow of Odysseus|Increases damage by 10 (15 if held by Odysseus)|D|10,15|W|100
+Shield of Achilles|Increases defense by 10 (15 if held by Achilles)|S|10,15|E|100
+Circe's Wand|Increases damage by 15 (20 if held by Circe)|D|15,20|W|125
+Argos' Fangs|Player attacks have 20% chance to inflict Disease(30% if held by Argos)|D|0.20,0.30|E|125
+Hermes' Winged Sandals|Increases player's agility, allowing for 20% chance to dodge enemy attacks|S|0.20|A|200
+Helios' Luminous Shield|Increases player defense by 50, increases fire weapon damage by 50|S|50|F|350
+Trident of Poseidon|Increases player defense by 50, increases water weapon damage by 50|D|50|W|350
+Demeter's Harvest Armor|Increasing player defense by 50, increases earth weapon damage by 50|S|50|E|350
+Athena's Spear|Grants player the wisdom of Athena, causing attacks to ignore 15% of enemy armor|D|15|W|275
+Poseidon's Shell|Grants player resistance to water-based attacks, reducing water damage taken by 20%|S|20|W|150
+Philter of Wisdom|Increase maximum Ultimate ability charges by 1|P|1|None|250
+Siren's Salve|Increase weapon damage by 20 or shield defense by 20 (Prompt user to choose)|P|20|None|250

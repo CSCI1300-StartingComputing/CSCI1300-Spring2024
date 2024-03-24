@@ -1,0 +1,10 @@
+Mount Everest,Asia,65,8848
+Matterhorn,Europe,14,4478,4
+Kangchenjunga,Asia,East,55,8586,5
+Mount Kilimanjaro,Africa,35,5895,3
+Denali,North America,16,6190,4
+Aconcagua,South America,70,6962,5
+Mount Elbrus,Europe,22,5642,3
+Mount Kosciuszko,Australia,7,2228,2
+Mount Fuji,Asia,13,3
+Mont Blanc,Europe,20,4810,4

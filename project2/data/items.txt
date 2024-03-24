@@ -1,0 +1,25 @@
+name|description|type|effect value|element|price
+Bow of Odysseus|Increases damage by 10|D|10|W|100
+Shield of Achilles|Increases defense by 10|S|10|E|100
+Circe's Wand|Increases damage by 15|D|15|W|125
+Argos' Fangs|Increases damage by 20|D|20|E|125
+Helios' Luminous Shield|Increases defense by 50|S|50|F|350
+Trident of Poseidon|Increases damage by 50|D|50|W|350
+Demeter's Harvest Armor|Increases defense by 25|S|25|E|350
+King's Blade|Increases damage by 60|D|60|E|0
+Fangs of Scylla|Increases damage by 60|D|60|E|0
+Cyclops Gaze|Increases defense by 50|S|50|A|0
+Ciconian Spear|Increases damage by 10|D|10|E|75
+Lotus Staff|Increases damage by 10|D|10|E|80
+Laestrygonian Club|Increases damage by 15|D|15|E|90
+Enchanted Wand|Increases damage by 10|D|10|A|100
+Nymph's Shield|Increases defense by 20|S|20|E|120
+Lesser Health Potion|Restore HP by 10|P|10|None|25
+Greater Health Potion|Restore HP by 25|P|25|None|50
+Lesser Stamina Potion|Restore stamina by 10|P|10|None|25
+Greater Stamina Potion|Restore stamina by 25|P|25|None|50
+Cleansing Potion|Cleanse player of either Disease or Poison|P|0|None|150
+Greater Rejuvenation Potion|Restore HP by 25 and stamina by 25|P|25|None|100
+Lesser Rejuvenation Potion|Restore HP by 10 and stamina by 10|P|10|None|50
+Minor Strength Potion|Permanently increase weapon damage by 2|P|2|None|50
+Major Strength Potion|Permanently increase weapon damage by 5|P|5|None|75

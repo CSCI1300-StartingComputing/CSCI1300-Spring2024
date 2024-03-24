@@ -1,0 +1,29 @@
+Mount Everest,Asia,65,8848,5
+Matterhorn,Europe,14,4478,4
+Kangchenjunga,Asia,55,8586,5
+Mount Kilimanjaro,Africa,35,5895,3
+Denali,North America,16,6190,4
+Aconcagua,South America,70,6962,5
+Mount Elbrus,Europe,22,5642,3
+Mount Kosciuszko,Australia,7,2228,2
+Mount Fuji,Asia,13,3776,3
+Mont Blanc,Europe,20,4810,4
+K2,Asia,22,8611,5
+Mount Rainier,North America,8,4392,3
+Mount McKinley,North America,7,6194,4
+Matterhorn,Europe,14,4478,4
+Mount Cook,NewZealand,10,3724,3
+Grand Teton,North America,12,4197,3
+Mount Whitney,North America,35,4421,3
+Mount Kenya,Africa,10,5199,4
+Mount Robson,North America,16,3954,4
+Piz Bernina,Europe,8,4049,4
+Mount Olympus,Greece,19,2918,3
+Mount Assiniboine,North America,8,3618,3
+Mount Baker,North America,12,3286,3
+Mount Shasta,North America,15,4317,3
+Mount Hood,North America,11,3426,3
+Mount Adams,North America,11,3742,3
+Mount Rainer,North America,8,4392,3
+Mount St.Helens,North America,10,2549,3
+Mount Baker,North America,12,3286,3

@@ -1,0 +1,9 @@
+We will implement an interactive board game fashioned after the game Pokémon. The user plays the role of a Trainer in a quest through the vast Pokémon world to find and train magical creatures called Pokémon. As the player acquires more Pokémon, they also have to defeat the other Trainers, randomly scattered throughout the land. The goal of the game is to find, battle, and defeat the other Trainers by growing and evolving their suite of Pokemon.
+
+All Pokémon have five statistics which affect their performance in battle. These are HP, Attack, Defense, Max Attack/Defense, and Speed. Some of these statistics can be modified during the course of the game.
+1. HP (short for Hit Points): A Pokémon faints when its HP reaches zero, and it cannot be used in battle again until it is revived at a Pokémon Center.
+2. Attack: Determines the strength of a Pokémon's attacks.
+3. Defense: Determines the Pokémon's resistance against attacks.
+4. Max Attack/Defense: Determines the maximum Pokémon's strength/resilience value as they level up.
+5. Speed: After battle commands are entered, the Speed statistics of the participating Pokémon are compared. The Pokémon with higher Speed will attack before those with lower Speed.
+

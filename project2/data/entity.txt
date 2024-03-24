@@ -1,0 +1,15 @@
+name|type|hp|stamina|defense|condition|advantage|elemental weakness|gold|starting items|number of items|ultimate
+Sirens|I|150|100|25|H|False|E|25|Health Potion, Tidal Charm of the Sirens|1,1|none
+Giants|I|170|75|50|H|False|F|35|Health Potion, Maul of the Giants|1,1|none
+Cicones|I|140|90|20|H|False|E|40|Health Potion, Ciconian Spear|1,1|none
+Lotus Eaters|I|160|80|25|H|True|A|45|Health Potion, Lotus Staff|1,1|none
+Laestrygonians|I|180|70|30|H|False|F|55|Health Potion, Laestrygonian Club|1,1|none
+Circe's Enchantresses|I|200|60|35|H|True|E|65|Health Potion, Enchanted Wand|1,1|none
+Calypso's Nymphs|I|220|50|40|H|True|W|75|Health Potion, Nymph's Shield|1,1|none
+The Laestrygonian King|E|220|100|55|H|True|E|95|Health Potion, King's Blade|1,1|none
+Scylla|E|200|75|75|H|True|E|100|Health Potion, Fangs of Scylla|1,1|none
+Cyclops|E|200|75|75|H|True|E|100|Health Potion, Cyclops Gaze|1,1|none
+Odysseus|P|100|100|0|H|False|W|50|Health Potion, Bow of Odysseus|1,1|none
+Argos|P|120|100|20|H|False|W|75|Health Potion, Argos' Fangs|1,1|none
+Circe|P|110|110|10|H|False|E|75|Health Potion, Circe's Wand|1,1|none
+Achilles|P|130|90|30|H|False|F|100|Health Potion, Shield of Achilles|1,1|none

@@ -1,0 +1,5 @@
+name|type|health|stamina|defense|condition|advantage|weakness|gold|starting items|number of items|ultimate
+Odysseus|P|100|100|0|H|False|W|50|Health Potion, Bow of Odysseus|2,1|Odyssey's End
+Argos|P|120|100|20|H|False|W|75|Health Potion, Argos' Fangs|1,1|Loyal Companionship
+Circe|P|110|110|10|H|False|E|75|Health Potion, Circe's Wand|3,1|Circe's Dominion
+Achilles|P|130|90|30|H|False|F|100|Health Potion, Shield of Achilles|1,1|Trickster's Gambit

@@ -1,0 +1,15 @@
+I am taken from a mine and shut up in a wooden case, from which I am never released, and yet I am used by almost every person. What am I? (string)|pencil lead
+I am an odd number. Take away one letter and I become even. What number am I? (integer)|7
+What is the square root of 144? (integer)|12
+What gets wet while drying? (single word, lowercase)|towel
+I am an even number. If you subtract 4 from me and then divide me by 8, the result is 7. What number am I? (integer)|36
+I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I? (string)|echo
+What are the next three letters in this sequence: OTTFFSS? (no spaces, uppercase)|ENT
+I am a number between 1 and 50. If you add up all of my digits, the sum is 9. What number am I? (integer)|45
+I'm tall when I'm young, and I'm short when I'm old. What am I? (string)|candle
+How many letters are in the alphabet? (integer)|11
+What can travel around the world while staying in a corner? (string)|stamp
+What comes once in a minute, twice in a moment, but never in a thousand years? (character)|m
+What is the sum of the first 100 positive integers? (integer)|5050
+I am a number between 1 and 10. If you multiply me by 7 and then subtract 6, you get the same result as if you double me and then subtract 5. What number am I? (integer)|4
+I am an odd number. If you take away one from me, I become divisible evenly by 6. What number am I? (integer)|7

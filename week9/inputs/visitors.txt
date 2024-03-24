@@ -1,0 +1,5 @@
+Monday Brad,George,Johnny
+Tuesday George
+Wednesday Brad,Jude
+Thursday Jason,Jared,Brad,Ben
+Friday Christian,Robert

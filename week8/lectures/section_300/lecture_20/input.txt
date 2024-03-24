@@ -1,0 +1,3 @@
+csci
+phys
+chem

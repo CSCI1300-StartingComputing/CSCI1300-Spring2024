@@ -1,0 +1,6 @@
+name|HP|gold|condition
+Odysseus|100|50|H
+Achilles|80|100|H
+Heracles|150|200|H
+Hector|110|75|H
+Atalanta|90|30|H

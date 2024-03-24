@@ -1,0 +1,6 @@
+Mount Everest,Asia,65,8848,5
+Kangchenjunga,Asia,55,8586,5
+Denali,North America,16,6190,4
+Matterhorn,Europe,14,4478,4
+Mount Kenya,Africa,10,5199,4
+Mount Robson,North America,16,3954,4

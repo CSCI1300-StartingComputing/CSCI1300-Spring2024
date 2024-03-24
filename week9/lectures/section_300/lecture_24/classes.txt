@@ -1,0 +1,37 @@
+/*
+options when buying a phone
+- color
+- storage
+- model
+- OS 
+- size
+
+struct Phone
+{
+    - color
+    - storage
+    - model
+    - OS 
+    - size
+};
+
+Phone p;
+
+
+class Phone
+{
+    - color
+    - storage
+    - model
+    - OS 
+    - size
+};
+class - member functions that can manipulate the datat members/attributes
+
+
+string s = "csci";
+s.length()
+s = "";
+
+access - privacy -> 
+*/

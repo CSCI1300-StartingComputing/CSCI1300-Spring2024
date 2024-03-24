@@ -1,0 +1,10 @@
+csci
+phys
+chem
+appm
+math
+atls
+atoc
+comm
+
+csci\nphys\nchem
